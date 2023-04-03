@@ -1,11 +1,17 @@
-# About the Dataset
+# Introduction of the Project
 
-Consists of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004 to 2005.
 
-Class Labels: 5 (business, entertainment, politics, sport, tech)
+We have a dataset consisting of 2225 documents from the BBC news website corresponding to stories in five topical areas from 2004 to 2005: **business, entertainment, politics, sport, tech.**
 
-# Dataset's Source
+The source of the dataset is from this link: http://mlg.ucd.ie/datasets/bbc.html (D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006.) [PDF] [BibTeX].
 
-Link: http://mlg.ucd.ie/datasets/bbc.html
+The requirement here are predicting a new article or news into one of five labels (business, entertainment, politics, sport, tech).
 
-D. Greene and P. Cunningham. "Practical Solutions to the Problem of Diagonal Dominance in Kernel Document Clustering", Proc. ICML 2006. [PDF] [BibTeX].
+These steps belows are building a model as the requirement mentioned:
+
+1. Data Requirement
+2. Read Data
+3. Data Pre-processing
+4. EDA
+5. Modeling
+6. Data Product
