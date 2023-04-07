@@ -12,6 +12,5 @@ These steps belows are building a model as the requirement mentioned:
 1. Data Requirement
 2. Read Data
 3. Data Pre-processing
-4. EDA
-5. Modeling
-6. Data Product
+4. Modeling
+5. Data Product
